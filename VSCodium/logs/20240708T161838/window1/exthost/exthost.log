@@ -1,0 +1,11 @@
+2024-07-08 16:18:39.832 [info] Extension host with pid 14935 started
+2024-07-08 16:18:39.832 [info] Skipping acquiring lock for /home/elvis/.config/VSCodium/User/workspaceStorage/74cbb6a4d92b28a9541af691dc474cf2.
+2024-07-08 16:18:39.990 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-08 16:18:40.269 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-08 16:18:40.371 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-08 16:18:40.404 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-08 16:18:40.447 [info] Eager extensions activated
+2024-07-08 16:18:40.478 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 16:18:40.481 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 16:18:44.624 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-08 16:18:44.629 [info] Extension host with pid 14935 exiting with code 0

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameRecord>
+    <RecordID>1</RecordID>
+    <Result>ExplodedDueToStrikes</Result>
+    <Seed>247314980</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>BigButton</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Keypad</ComponentTypeEnum>
+    </Components>
+    <MissionID>firsttime</MissionID>
+    <ModuleSolveCount>3</ModuleSolveCount>
+    <TimeElapsed>95.77486</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>141.215118</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Wires</ComponentType>
+        <InteractionType>CutWire</InteractionType>
+        <Time>58.4152069</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>Wires</ComponentType>
+        <InteractionType>CutWire</InteractionType>
+        <Time>59.73207</Time>
+      </StrikeSource>
+      <StrikeSource>
+        <ComponentType>BigButton</ComponentType>
+        <InteractionType>BigButton</InteractionType>
+        <Time>95.77486</Time>
+      </StrikeSource>
+    </Strikes>
+  </GameRecord>
+</ArrayOfGameRecord>

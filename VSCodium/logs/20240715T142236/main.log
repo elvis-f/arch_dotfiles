@@ -1,0 +1,5 @@
+2024-07-15 14:22:37.063 [info] update#setState disabled
+2024-07-15 14:22:37.071 [info] update#ctor - updates are disabled as there is no update URL
+2024-07-15 14:22:45.572 [info] Extension host with pid 4104 exited with code: 0, signal: unknown.
+2024-07-15 16:00:35.965 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-15 18:08:04.552 [info] Extension host with pid 4118 exited with code: 0, signal: unknown.

@@ -1,0 +1,36 @@
+2024-07-11 00:14:46.302 [info] Started local extension host with pid 60668.
+2024-07-11 00:14:49.284 [info] [perf] Render performance baseline is 62ms
+2024-07-11 00:16:38.696 [info] Started local extension host with pid 60971.
+2024-07-11 00:16:41.585 [info] [perf] Render performance baseline is 53ms
+2024-07-11 07:13:19.020 [info] Started local extension host with pid 86254.
+2024-07-11 07:13:22.415 [info] [perf] Render performance baseline is 55ms
+2024-07-11 07:31:19.053 [error] There are no commenting ranges at the current position (with range).: Error: There are no commenting ranges at the current position (with range).
+    at G.addCommentAtLine (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:3505)
+    at G.addOrToggleCommentAtLine (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:2909)
+    at G.onEditorMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:2532)
+    at u.value (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2120:45254)
+    at ue._deliver (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:837)
+    at ue._deliverQueue (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:928)
+    at ue.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:1263)
+    at ue.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:766:28298)
+    at Ce.onMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:766:25001)
+    at I.emitMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:104:25452)
+    at R.emitMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:694:52207)
+    at i._onMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:740:17788)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:740:14457
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:735:55573)
+2024-07-12 15:57:32.420 [error] There are no commenting ranges at the current position (with range).: Error: There are no commenting ranges at the current position (with range).
+    at G.addCommentAtLine (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:3505)
+    at G.addOrToggleCommentAtLine (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:2909)
+    at G.onEditorMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2121:2532)
+    at u.value (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2120:45254)
+    at ue._deliver (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:837)
+    at ue._deliverQueue (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:928)
+    at ue.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:1263)
+    at ue.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:766:28298)
+    at Ce.onMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:766:25001)
+    at I.emitMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:104:25452)
+    at R.emitMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:694:52207)
+    at i._onMouseUp (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:740:17788)
+    at vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:740:14457
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:735:55573)

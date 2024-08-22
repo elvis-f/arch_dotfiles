@@ -1,0 +1,108 @@
+/* .brightness_button {
+    font-size: 20px;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    box-shadow: none;
+    color: black;
+    padding: 5px;
+} */
+
+/* .brightness_button label {
+    color: red;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+} */
+/* 
+.backlight_container {
+    min-height: 20px;
+} */
+
+/* .backlight_container button {
+    all: unset;
+
+    min-height: 1em;
+    min-width: 1em;
+    padding: .3em;
+} */
+/* 
+.bar {
+    background: red;
+} */
+
+.widget_container {
+    margin: 8px 8px 0 8px;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 24px;
+    padding: 8px;
+}
+
+.graph {
+    min-width: 100px;
+}
+
+.graph_bar {
+    min-width: 10px;
+    padding: 2px;
+}
+
+.graph_bar trough {
+    all: unset;
+}
+
+.graph_bar progress {
+    min-width: 10px;
+}
+
+.custom_slider {
+    min-width: 100px;
+    border: none;
+    padding: 8px;
+}
+
+.custom_slider trough {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    min-height: 16px;
+    border-radius: 8px;
+}
+
+.custom_slider slider {
+    margin: 0;
+    padding: 0;
+    border: none;
+    min-width: 16px;
+    min-height: 16px;
+    box-shadow: none;
+}
+
+.custom_slider highlight {
+    margin: 0;
+    padding: 0;
+    border-radius: 8px 0 0 8px;
+    margin-left: -8px;
+    background-color: white;
+    border: none;
+    min-height: 16px;
+}
+
+.brightness_icon {
+    color: white;
+    margin: 0;
+    margin-right: 5px;
+    padding: 0;
+}
+
+.clock {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+/* .test_box {
+    min-width: 100px;
+    min-height: 100px;
+    background: red;
+} */

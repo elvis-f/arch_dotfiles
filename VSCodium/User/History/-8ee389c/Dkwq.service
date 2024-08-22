@@ -1,0 +1,6 @@
+[Unit]
+Description=Store a log of battery levels
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash/var"

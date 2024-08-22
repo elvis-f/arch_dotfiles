@@ -1,0 +1,13 @@
+2024-07-08 19:57:29.579 [info] Extension host with pid 23684 started
+2024-07-08 19:57:29.579 [info] Skipping acquiring lock for /home/elvis/.config/VSCodium/User/workspaceStorage/74cbb6a4d92b28a9541af691dc474cf2.
+2024-07-08 19:57:29.742 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-08 19:57:30.066 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-08 19:57:30.134 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-08 19:57:30.160 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-08 19:57:30.205 [info] Eager extensions activated
+2024-07-08 19:57:30.238 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 19:57:30.241 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 19:59:28.399 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-07-09 13:11:44.044 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-07-09 13:15:17.673 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-09 13:15:42.706 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

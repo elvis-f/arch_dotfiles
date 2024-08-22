@@ -1,0 +1,3 @@
+class ExtendedBatteryService extends Service {
+    
+}

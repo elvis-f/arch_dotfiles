@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 117.87612 117.87612"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.339768,-47.549944)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.786;stroke-dasharray:none;stroke-opacity:1"
+       id="path7"
+       inkscape:flatsided="false"
+       sodipodi:sides="8"
+       sodipodi:cx="49.715828"
+       sodipodi:cy="81.388206"
+       sodipodi:r1="40.513733"
+       sodipodi:r2="58.545856"
+       sodipodi:arg1="0.39802489"
+       sodipodi:arg2="0.79072397"
+       inkscape:rounded="0.2"
+       inkscape:randomized="0"
+       d="m 87.062535,97.091264 c -2.030748,4.829746 7.554831,22.230036 3.8304,25.915006 -3.72443,3.68497 -21.021634,-6.0854 -25.872736,-4.10622 -4.851101,1.97919 -10.376937,21.06109 -15.616173,21.03318 -5.239237,-0.0279 -10.56151,-19.16757 -15.391256,-21.19832 -4.829745,-2.03074 -22.230036,7.55483 -25.9150047,3.8304 C 4.4127963,118.84088 14.183169,101.54368 12.20398,96.692578 10.22479,91.841476 -8.8571017,86.315641 -8.8291982,81.076404 -8.8012948,75.837167 10.338372,70.514894 12.369121,65.685149 14.399869,60.855404 4.8142901,43.455113 8.5387205,39.770144 12.263151,36.085175 29.560355,45.855548 34.411456,43.876358 39.262558,41.897168 44.788394,22.815277 50.02763,22.84318 c 5.239237,0.0279 10.56151,19.167571 15.391255,21.198319 4.829746,2.030749 22.230037,-7.55483 25.915006,-3.8304 3.684969,3.72443 -6.085404,21.021634 -4.106215,25.872736 1.97919,4.851102 21.061084,10.376937 21.033174,15.616174 -0.0279,5.239236 -19.167566,10.56151 -21.198315,15.391255 z"
+       inkscape:transform-center-x="3.7307805"
+       inkscape:transform-center-y="-1.9222886"
+       transform="translate(50.562001,25.099795)"
+       inkscape:export-filename="brightness_icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

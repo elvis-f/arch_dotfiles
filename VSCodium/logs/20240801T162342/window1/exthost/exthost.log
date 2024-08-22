@@ -1,0 +1,10 @@
+2024-08-01 16:23:43.988 [info] Extension host with pid 843 started
+2024-08-01 16:23:43.989 [info] Skipping acquiring lock for /home/elvis/.config/VSCodium/User/workspaceStorage/74cbb6a4d92b28a9541af691dc474cf2.
+2024-08-01 16:23:44.171 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-01 16:23:44.182 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-08-01 16:23:44.435 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-01 16:23:44.705 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-01 16:23:44.750 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-01 16:23:44.808 [info] Eager extensions activated
+2024-08-01 16:23:44.874 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-01 16:23:44.879 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

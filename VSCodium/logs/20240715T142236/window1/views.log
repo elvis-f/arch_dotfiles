@@ -1,0 +1,14 @@
+2024-07-15 14:22:38.214 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-07-15 14:22:38.214 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-07-15 14:22:38.214 [info] Added views:terminal in terminal
+2024-07-15 14:22:38.214 [info] Added views:outline in workbench.view.explorer
+2024-07-15 14:22:38.214 [info] Added views:workbench.scm in workbench.view.scm
+2024-07-15 14:22:38.214 [info] Added views:workbench.view.search in workbench.view.search
+2024-07-15 14:22:38.214 [info] Added views:timeline in workbench.view.explorer
+2024-07-15 14:22:38.214 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-07-15 14:22:38.725 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-07-15 14:22:39.505 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-07-15 14:22:41.061 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-07-15 15:02:26.272 [info] Added views:workbench.debug.breakPointsView in workbench.view.debug
+2024-07-15 15:42:10.668 [info] Added views:refactorPreview in refactorPreview
+2024-07-15 15:42:17.391 [info] Removed views:refactorPreview from refactorPreview
